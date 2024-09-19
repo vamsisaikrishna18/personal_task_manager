@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.card {
+  background-color: aqua;
+  height: 400px;
+  width: 700px;
+}
+.input-card {
+  height: 50px;
+  width: 300px;
+}
+.btn {
+  background-color: #48db6b;
+  height: 30px;
+  border-radius: 10px;
+  border-width: 1px;
+  margin: 20px;
+}
